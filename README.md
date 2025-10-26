@@ -9,6 +9,12 @@ Pengguna dapat melihat informasi cuaca lengkap seperti suhu, kelembapan, kecepat
 Fitur unggulan aplikasi ini mencakup efek visual yang berubah sesuai kondisi cuaca (hujan, cerah, berawan), efek suara interaktif, saran aktivitas berdasarkan cuaca, serta desain yang responsif untuk semua perangkat. Aplikasi ini cocok untuk membantu perencanaan aktivitas sehari-hari dengan pengalaman pengguna yang menyenangkan.
 
 
+
+
+
+
+
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠲⣶⣦⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠐⣲⣾⣿⣿⣿⣧⡀⠀⠀⠀⠀⣰⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⣩⣿⣿⣿⣿⣿⣿⣷⡀⠀⢀⣤⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
