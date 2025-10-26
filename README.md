@@ -1,58 +1,7 @@
-My Day - Aplikasi Cuaca Indonesia
-My Day adalah aplikasi sistem informasi cuaca yang dirancang khusus untuk wilayah Indonesia dengan antarmuka yang modern, responsif, dan interaktif.
+My Day adalah aplikasi cuaca modern untuk Indonesia yang menampilkan informasi cuaca real-time dengan tampilan visual menarik dan interaktif.
 
-Fitur Utama:
-🌤️ Informasi Cuaca Real-time
+Aplikasi ini mengambil data cuaca terkini dari OpenWeatherMap API dan menampilkannya dalam antarmuka yang elegan dengan efek glassmorphism, gradien warna, serta animasi yang smooth.
 
-Data cuaca terkini dari OpenWeatherMap API
+Pengguna dapat melihat informasi cuaca lengkap seperti suhu, kelembapan, kecepatan angin, dan tekanan udara untuk berbagai kota di Indonesia. Terdapat 40+ kota yang tersedia, dengan akses cepat ke kota-kota populer seperti Jakarta, Surabaya, Bandung, Medan, dan Denpasar.
 
-Informasi lengkap: suhu, kelembapan, kecepatan angin, tekanan udara
-
-Kondisi cuaca aktual dengan deskripsi terperinci
-
-🗺️ Cakupan Luas
-
-40+ kota besar di Indonesia
-
-Kota populer: Jakarta, Surabaya, Bandung, Medan, Denpasar
-
-Pencarian kota mudah dengan daftar lengkap
-
-🎨 Antarmuka Modern
-
-Desain glassmorphism dengan gradien warna menarik
-
-Animasi smooth dan transisi elegan
-
-Efek visual sesuai kondisi cuaca (hujan, cerah, berawan)
-
-Ikon cuaca yang informatif
-
-🔊 Pengalaman Multimedia
-
-Efek suara untuk interaksi pengguna
-
-Suara latar sesuai kondisi cuaca
-
-Kontrol volume yang mudah diakses
-
-💡 Fitur Cerdas
-
-Saran aktivitas berdasarkan kondisi cuaca
-
-Update waktu dan tanggal real-time
-
-Responsif di semua perangkat (desktop, tablet, mobile)
-
-📱 User-Friendly
-
-Navigasi intuitif dengan menu jelas
-
-Loading animasi yang informatif
-
-Pesan error yang membantu
-
-Akses cepat ke kota favorit
-
-Aplikasi ini cocok untuk perencanaan aktivitas sehari-hari, perjalanan, atau sekadar memantau kondisi cuaca di berbagai daerah Indonesia dengan pengalaman visual dan audio yang menyenangkan.
-
+Fitur unggulan aplikasi ini mencakup efek visual yang berubah sesuai kondisi cuaca (hujan, cerah, berawan), efek suara interaktif, saran aktivitas berdasarkan cuaca, serta desain yang responsif untuk semua perangkat. Aplikasi ini cocok untuk membantu perencanaan aktivitas sehari-hari dengan pengalaman pengguna yang menyenangkan.
