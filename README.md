@@ -1,9 +1,11 @@
 https://alfanrizkyw.github.io/My-Day-by-Paan/
+---
+### My Day by Paan
 
-My Day adalah aplikasi cuaca modern untuk Indonesia yang menampilkan informasi cuaca real-time dengan tampilan visual menarik dan interaktif.
+is a modern weather app for Indonesia that displays real-time weather information with engaging and interactive visuals.
 
-Aplikasi ini mengambil data cuaca terkini dari OpenWeatherMap API dan menampilkannya dalam antarmuka yang elegan dengan efek glassmorphism, gradien warna, serta animasi yang smooth.
+The app pulls current weather data from the OpenWeatherMap API and displays it in an elegant interface with glassmorphism effects, color gradients, and smooth animations.
 
-Pengguna dapat melihat informasi cuaca lengkap seperti suhu, kelembapan, kecepatan angin, dan tekanan udara untuk berbagai kota di Indonesia. Terdapat 40+ kota yang tersedia, dengan akses cepat ke kota-kota populer seperti Jakarta, Surabaya, Bandung, Medan, dan Denpasar.
+Users can view comprehensive weather information such as temperature, humidity, wind speed, and air pressure for various cities in Indonesia. Over 40 cities are available, with quick access to popular cities like Jakarta, Surabaya, Bandung, Medan, and Denpasar.
 
-Fitur unggulan aplikasi ini mencakup efek visual yang berubah sesuai kondisi cuaca (hujan, cerah, berawan), efek suara interaktif, saran aktivitas berdasarkan cuaca, serta desain yang responsif untuk semua perangkat. Aplikasi ini cocok untuk membantu perencanaan aktivitas sehari-hari dengan pengalaman pengguna yang menyenangkan.
+The app's key features include visual effects that change according to weather conditions (rainy, sunny, cloudy), interactive sound effects, weather-based activity suggestions, and a responsive design that works across all devices. This app is perfect for planning daily activities with a pleasant user experience.
